@@ -14,7 +14,7 @@ A modern matchmaking dashboard built for The Date Crew (TDC) Working Session Exe
 
 ## 📂 GitHub Repository
 
-https://github.com/Kartikmanth19/The-Match-Maker-TDC
+(https://github.com/Kartikmanth19/The-Match-Maker-TDC.git)
 
 ---
 
