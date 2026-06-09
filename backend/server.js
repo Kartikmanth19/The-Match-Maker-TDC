@@ -18,8 +18,11 @@ app.get("/", (req, res) => {
 app.use("/api/customers", customerRoutes);
 app.use("/api/matches", matchRoutes);
 
-const PORT = 5000;
+const PORT =
+  process.env.PORT || 5000;
 
 app.listen(PORT, () => {
-    console.log(`Server Running on ${PORT}`);
+  console.log(
+    `Server Running on ${PORT}`
+  );
 });
